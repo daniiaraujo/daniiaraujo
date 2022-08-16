@@ -1,7 +1,7 @@
-Olá, sou Daniele.
+Olá, sou Daniele Araújo.
 
 Tenho 21 anos.
 
-Cursando o último período de técnico em informática.
+Estou cursando o último período de técnico em informática no Colégio Santo Inácio.
 
-Estágiaria no Suporte Técnico no @crbio02
+Estágiaria de Suporte Técnico no Conselho Regional de Biologia.
